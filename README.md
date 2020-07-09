@@ -4,7 +4,6 @@ A CLI (command line client) to create and publish Stitch apps for the Stitch mic
 
 ## Todo
 
-- Add the host option to publish
 - Add option to create in current directory, instead of making a directory each time.
 - Update create to just update provided stitch.yml instead of creating one.
 
